@@ -9,4 +9,4 @@ def main():
 	print("Average:", average(MARKS))
 	print("Highest:", highest(MARKS))
 if __name__ == "__main__":
-main()
+	main()
